@@ -1,6 +1,6 @@
 # Creative websites 🍱
 
-A handpicked collection of creative websites. Get inspired.
+A handpicked collection of creative websites. **Get inspired.**
 
 Issues are open for suggestions of more creative websites! Criteria:
 
@@ -9,6 +9,8 @@ Issues are open for suggestions of more creative websites! Criteria:
 - Immersive
 
 Note that the collection is not restricted to 3D websites.
+
+I expect the update frequency will be monthly at most, so be patient!
 
 ## Agencies
 
